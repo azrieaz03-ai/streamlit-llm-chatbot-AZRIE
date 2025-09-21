@@ -1,0 +1,7 @@
+streamlit>=1.20
+# Optional libs for integration
+langchain>=0.0.200
+openai>=0.27.0
+chromadb>=0.3.0
+pinecone-client>=2.2.0
+pydantic
