@@ -6,7 +6,7 @@ Mendukung **percakapan multi-turn** (ingat riwayat chat) dan integrasi dokumen (
 ---
 
 ## 🚀 Fitur
-- 🔑 Integrasi dengan *Google Gemini API* (`gemini-1.5-flash`)
+- 🔑 Integrasi dengan **Google Gemini API** (`gemini-1.5-flash`)
 - 💬 Mendukung percakapan multi-turn (riwayat percakapan disimpan di `session_state`)
 - 📄 Retrieval Augmented Generation (RAG) **mock** – contoh integrasi dengan database dokumen
 - 🎭 Pilihan gaya bahasa: *Santai* atau *Formal*
@@ -25,11 +25,11 @@ Mendukung **percakapan multi-turn** (ingat riwayat chat) dan integrasi dokumen (
 # Install dependencies
 pip install -r requirements.txt
 
-#Setup API Key
+# Setup API Key
 Copy file example.env ke api.env
 
-#Isi dengan API key milikmu
+# Isi dengan API key milikmu
 GEMINI_API_KEY=YOUR_API_KEY_HERE
 
-#Jalankan aplikasi
+# Jalankan aplikasi
 streamlit run app.py
