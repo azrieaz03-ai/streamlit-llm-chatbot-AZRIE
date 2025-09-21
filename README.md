@@ -1,4 +1,4 @@
-# 🤖 Chatbot Gemini + Streamlit
+# 🤖 ProdBot — Personal Productivity Assistan
 
 Chatbot sederhana berbasis **Google Gemini API** dengan antarmuka **Streamlit**.  
 Mendukung **percakapan multi-turn** (ingat riwayat chat) dan integrasi dokumen (RAG mock).
